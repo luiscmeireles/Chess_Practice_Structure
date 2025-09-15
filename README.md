@@ -22,3 +22,4 @@ python -m pip install \
   numpy pandas matplotlib tqdm scipy \
   scikit-learn imbalanced-learn seaborn statsmodels \
   python-chess stockfish jupyter
+# Chess_Practice_Structure
