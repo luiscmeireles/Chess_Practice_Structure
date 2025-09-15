@@ -43,8 +43,8 @@ After setup, you can run the notebooks or scripts as usual.
 REPOSITORY STRUCTURE
 
 ├── notebooks/
-│   ├── 01_experiment.ipynb
-│   └── 02_analysis.ipynb
+│   ├── feature_eng.ipynb
+│   └── models.ipynb
 ├── src/
 │   ├── feature.py
 │   ├── run_match.py
